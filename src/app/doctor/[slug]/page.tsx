@@ -1,6 +1,6 @@
 "use client"
 import React, { useRef, useEffect, useState } from "react";
-import Hero from "../../src/app/components/hero/Hero";
+import Hero from "../../components/hero/Hero";
 import Image from "next/image";
 import docImg from "../../components/assets/images/image 5.png"
 import { Icon } from '@iconify/react';
@@ -21,7 +21,7 @@ import mastectomyImg from '.././img/image copy 2.png'
 import colonImg from '.././img/image copy.png'
 import endoscopyImg from '.././img/image.png'
 import PlaceOutlinedIcon from '@mui/icons-material/PlaceOutlined';
-import ImageOrbit from "../../src/app/components/3d/ImageOrbit";
+import ImageOrbit from "../../components/3d/ImageOrbit";
 import axios from "axios"
 import { usePathname } from "next/navigation";
 

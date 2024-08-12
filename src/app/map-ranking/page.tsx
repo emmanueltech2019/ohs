@@ -1,6 +1,6 @@
 import React from 'react'
-import Hero from '../src/app/components/hero/Hero'
-import PricingCard from '../src/app/components/PricingCard/PricingCard'
+import Hero from '../components/hero/Hero'
+import PricingCard from '../components/PricingCard/PricingCard'
 import { NextPage } from 'next'
 
 const page: NextPage = () => {
