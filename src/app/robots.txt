@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.orlandoherniaspecialists.com/sitemap.xml
